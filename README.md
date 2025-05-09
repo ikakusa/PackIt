@@ -8,7 +8,7 @@
 
 # WARNING
 
-### When opening PackItSetup.exe, be sure to place PackIt.exe in the same directory
+### When opening PackItSetup.exe, be sure to place PackItCopy.exe and PackItMove.exe in the same directory
 
 # Preview
 ![image](https://github.com/user-attachments/assets/4284060a-5dd5-4aac-b7b8-24395a64ea39)
