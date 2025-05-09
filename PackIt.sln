@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackIt", "PackIt\PackIt.csproj", "{A3E229D6-8851-4B98-862B-434E1F9D6F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackItSetup", "PackItSetup\PackItSetup.csproj", "{DA9DA4C1-A31F-4094-870A-77B5E9F53832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E229D6-8851-4B98-862B-434E1F9D6F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E229D6-8851-4B98-862B-434E1F9D6F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E229D6-8851-4B98-862B-434E1F9D6F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E229D6-8851-4B98-862B-434E1F9D6F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9DA4C1-A31F-4094-870A-77B5E9F53832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9DA4C1-A31F-4094-870A-77B5E9F53832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9DA4C1-A31F-4094-870A-77B5E9F53832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9DA4C1-A31F-4094-870A-77B5E9F53832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EAC081-CABE-456F-81F3-00F047864215}
+	EndGlobalSection
+EndGlobal
