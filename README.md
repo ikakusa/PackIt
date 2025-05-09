@@ -11,6 +11,6 @@
 ### When opening PackItSetup.exe, be sure to place PackItCopy.exe and PackItMove.exe in the same directory
 
 # Preview
-![image](https://github.com/user-attachments/assets/4284060a-5dd5-4aac-b7b8-24395a64ea39)
-![image](https://github.com/user-attachments/assets/3572c625-5c3b-4f16-8546-4ebf24983256)
-![image](https://github.com/user-attachments/assets/ac6f2e10-820c-46cd-abc9-751b1171dda7)
+![image](https://github.com/user-attachments/assets/bd41c825-2f54-4890-83eb-36a0742992dc)
+![image](https://github.com/user-attachments/assets/28d971f8-4299-4d95-9970-440dc40bf355)
+![image](https://github.com/user-attachments/assets/629715bf-6141-4acd-bb8c-1c46827ca213)
