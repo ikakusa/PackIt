@@ -1,6 +1,6 @@
 # Usage
 
-1. Open PackItSetup.exe
+### 1. Open PackItSetup.exe
 
 2. Select some files, right click, and click "Pack to a folder"
 
